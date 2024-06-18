@@ -12,6 +12,8 @@ Seja bem-vindo ao Teste de Frontend da Karhub!
   - Um cabeçalho (header) e um rodapé (footer) que devem permanecer visíveis tanto na página de listagem de produtos (/produtos) quanto na página de detalhes do produto (/produtos/:id)..
   - Um filtro de produtos.
 
+*Todo o material necessário está nesse repo.*
+
 ## Como deve ficar:
 
 ![Acessar Figma](https://www.figma.com/design/Fgmo9AB1tqiqK1gUGiRrCR/Front-end-test---KarHub?node-id=0-1&t=jB8QpYp2g8FIcaEg-0)
