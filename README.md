@@ -15,9 +15,7 @@ Seja bem-vindo ao Teste de Frontend da Karhub!
 *Todo o material necessário está nesse repo.*
 
 ## Como deve ficar:
-
-![Acessar Figma](https://www.figma.com/design/Fgmo9AB1tqiqK1gUGiRrCR/Front-end-test---KarHub?node-id=0-1&t=jB8QpYp2g8FIcaEg-0)
-
+[Acessar Figma](https://www.figma.com/design/Fgmo9AB1tqiqK1gUGiRrCR/Front-end-test---KarHub?node-id=0-1&t=jB8QpYp2g8FIcaEg-0)
 
 ## O que será analisado?
 
