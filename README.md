@@ -14,14 +14,7 @@ Seja bem-vindo ao Teste de Frontend da Karhub!
 
 ## Como deve ficar:
 
-Página de listagem (`/produtos`):
-![Section1](https://github.com/karhub-br/v2-frontend-test/assets/35191794/f8ffdc26-3fa8-43da-8669-16a0e08bee49)
-![Section2](https://github.com/karhub-br/v2-frontend-test/assets/35191794/f6cb3f05-0bf2-4474-91f4-49b7efe65992)
-![Section3](https://github.com/karhub-br/v2-frontend-test/assets/35191794/1fcec094-f37d-4000-893d-55a6241d435e)
-
-Página do Produto (`/produtos/:id`):
-![Section4](https://github.com/karhub-br/v2-frontend-test/assets/35191794/e87f8551-b683-4a62-bc34-a6345d63673e)
-
+![Acessar Figma](https://www.figma.com/design/Fgmo9AB1tqiqK1gUGiRrCR/Front-end-test---KarHub?node-id=0-1&t=jB8QpYp2g8FIcaEg-0)
 
 
 ## O que será analisado?
