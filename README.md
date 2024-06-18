@@ -31,4 +31,3 @@ Seja bem-vindo ao Teste de Frontend da Karhub!
 ## Stack
 
 Teste deverá ser feito em React, em um dos seguintes Frameworks: Remix, Next ou Astro.
- 
